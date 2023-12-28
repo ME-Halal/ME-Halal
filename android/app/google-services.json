@@ -59,6 +59,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "771469478375-eklrmq32c0s47kckaj8ejnh451aqgsqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.rekayasa.me_halal",
+            "certificate_hash": "44bca21de0fcb6ae11e6faa74eea264db81d4022"
+          }
+        },
+        {
           "client_id": "771469478375-hurliaul8l76p7dhgk7q471ehm4udh3n.apps.googleusercontent.com",
           "client_type": 3
         }
